@@ -33,7 +33,7 @@ MediMind was developed to address the challenges of managing medications and hea
 
 Hi, I’m **Vani Agarwal**, a passionate software developer with experience in building impactful applications. MediMind reflects my commitment to creating meaningful and accessible technology solutions.  
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or check out my [portfolio](https://your-portfolio.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaniagarwal-/) or check out my [portfolio](https://vaniagarwal343.github.io/personal-website/).
 
 ---
 
